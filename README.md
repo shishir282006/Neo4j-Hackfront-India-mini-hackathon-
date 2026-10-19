@@ -4,7 +4,9 @@ An intelligent AI chatbot web application with an **Anonymized Graph Database (N
 
 ---
 
+
 ## 🌟 Key Features
+
 
 ### 1. 📁 Categorized Folders
 - ✈️ **Flight Booking Folder (`flight booking`)**:
@@ -68,6 +70,7 @@ docker run --name neo4j-memory -p 7474:7474 -p 7687:7687 -e NEO4J_AUTH=neo4j/pas
 4. Click **"Connect & Sync to Neo4j"**. All nodes and relationships will be synchronized instantly!
 
 ---
+
 
 ## 💬 Sample Prompts to Try
 
