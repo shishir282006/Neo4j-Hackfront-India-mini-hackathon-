@@ -81,6 +81,6 @@ docker run --name neo4j-memory -p 7474:7474 -p 7687:7687 -e NEO4J_AUTH=neo4j/pas
 
 2. **In Tourist Place Folder:**
    - *"Current location: Lucknow"*
-   - *"Current location: Varanasi"*
+   - *"Varanasi"*
    - *"Pune"*
    - *"Bangalore"*
